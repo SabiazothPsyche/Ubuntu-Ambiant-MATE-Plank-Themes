@@ -10,7 +10,9 @@ In this zip file, are included 9 Ubuntu Ambiant/Radiant MATE Theme Colours for t
 
 # It's Easy To Install
 
-Just open your terminal, and type in:
+First extract "here" the 9 separate color folders in the zip file:
+
+Then open your terminal, and type in:
 
 sudo, and your name of management file (e.g., "sudo nautilus") and enter:
 
