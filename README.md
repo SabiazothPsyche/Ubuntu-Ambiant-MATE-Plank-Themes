@@ -6,7 +6,7 @@ Originally, these 9 colours would have autormatically installed in the Ubuntu MA
 But since the current Ubuntu MATE 22.04 OS changed to Yaru color schemes, they won't install
 automatically any longer.
 
-In this zip file, are included 9 Ubuntu Ambiant/Radian MATE Theme Colours for the plank themes.
+In this zip file, are included 9 Ubuntu Ambiant/Radiant MATE Theme Colours for the plank themes.
 
 # It's Easy To Install
 
@@ -39,8 +39,4 @@ Enjoy!
 ![Ubuntu-Ambiant-MATE-Red](https://user-images.githubusercontent.com/119450036/204640967-05900dff-f95a-4f6e-b617-278cf8709679.png)
 ![Ubuntu-Ambiant-MATE-Teal](https://user-images.githubusercontent.com/119450036/204640986-5ea5940d-4989-4be1-937c-d082be9c5c77.png)
 ![Ubuntu-Ambiant-MATE-Yellow](https://user-images.githubusercontent.com/119450036/204641000-8baa37d9-7ba8-4066-b2ad-487f96b090a8.png)
-
-# Ubuntu-Ambiant-MATE-Colours Theme Zip File
-
-[Ubuntu-Ambiant-MATE-Plank-Themes.zip](https://github.com/SabiazothPsyche/Ubuntu-Ambiant-MATE-Plank-Themes/files/10117078/Ubuntu-Ambiant-MATE-Plank-Themes.zip)
 
